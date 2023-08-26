@@ -1,0 +1,26 @@
+.top-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: #1F2937;
+}
+
+.header{
+    display: flex;
+    padding: 20px;
+    width: auto;
+    margin: 0px auto;
+    font-weight: 24px;
+    color: #F9FAF8;
+    
+}
+
+.header-logo{
+    font-weight: bolder;
+    font-size: larger;
+}
+
+a{
+    color: #F9FAF8;
+    text-decoration: none;
+}
