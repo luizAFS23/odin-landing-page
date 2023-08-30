@@ -122,3 +122,20 @@ a{
     max-width: 20px;
     padding: 70px;
 }
+
+.quote-container{
+    background-color: #E5E7EB;
+    margin-top: 90px;
+    padding: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+
+.quote-div em{
+    font-size: 36px;
+    font-weight: light;
+    color: #1F2937;
+}
