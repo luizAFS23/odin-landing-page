@@ -48,15 +48,20 @@ a{
     padding: 60px;
     text-align: start;
     flex-direction: column;
-    max-width : 300px;
+    max-width: 350px;
     word-wrap: break-word;
 }
 
-.awesome{
+.h1-hero{
     color: #F9FAF8;
     font-size: 48px;
     font-weight: bolder;
     text-align: left;
+}
+
+.p-hero{
+    font-size: 18px;
+    color: #E5E7EB;
 }
 
 .sign-up-button{
