@@ -42,7 +42,6 @@ a{
 
 .hero{
     display: flex;
-    flex-wrap: wrap;
     align-items: center;
     padding: 150px;
     text-align: start;
@@ -53,4 +52,5 @@ a{
     color: #F9FAF8;
     font-size: 48px;
     font-weight: bolder;
+    text-align: left;
 }
