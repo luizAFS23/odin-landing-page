@@ -9,7 +9,6 @@ body{
     flex-direction: column;
     justify-content: space-evenly;
     background-color: #1F2937;
-
 }
 
 .header{
@@ -28,11 +27,30 @@ body{
 
 
 a{
-    color: #F9FAF8;
+    color: #E5E7EB;
     text-decoration: none;
     margin-right: 15px;
+    font-size: 18px;
+
+}
+
+.hero-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
 }
 
 .hero{
     display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 150px;
+    text-align: start;
+    flex-direction: column;
+}
+
+.awesome{
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: bolder;
 }
