@@ -17,7 +17,7 @@ body{
     font-weight: 24px;
     color: #F9FAF8;
     justify-content:space-evenly;
-    gap: 20%;
+    gap: 25%;
 }
 
 .header-logo{
@@ -48,18 +48,21 @@ a{
     padding: 60px;
     text-align: start;
     flex-direction: column;
-    max-width: 350px;
-    word-wrap: break-word;
+    max-width: 430px;
+    
 }
+
 
 .h1-hero{
     color: #F9FAF8;
     font-size: 48px;
     font-weight: bolder;
     text-align: left;
+    margin-bottom: 0px;
 }
 
 .p-hero{
+    margin-top: 5px;
     font-size: 18px;
     color: #E5E7EB;
 }
@@ -69,8 +72,11 @@ a{
     color: white;
     border-radius: 5px;
     padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
     border: none;
     cursor: pointer;
+    
 }
 
 .image-placeholder{
