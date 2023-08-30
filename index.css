@@ -17,7 +17,7 @@ body{
     font-weight: 24px;
     color: #F9FAF8;
     justify-content:space-evenly;
-    gap: 30%;
+    gap: 20%;
 }
 
 .header-logo{
@@ -38,14 +38,18 @@ a{
     display: flex;
     flex-direction: row;
     align-items: center;
+    justify-content: center;
+    gap: 10%;
 }
 
 .hero{
     display: flex;
-    align-items: center;
-    padding: 150px;
+    align-items: start;
+    padding: 60px;
     text-align: start;
     flex-direction: column;
+    max-width : 300px;
+    word-wrap: break-word;
 }
 
 .awesome{
@@ -53,4 +57,19 @@ a{
     font-size: 48px;
     font-weight: bolder;
     text-align: left;
+}
+
+.sign-up-button{
+    background-color: #3882F6;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.image-placeholder{
+    text-align: center;
+    background-color: gray;
+    padding: 100px;
 }
