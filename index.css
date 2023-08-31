@@ -32,7 +32,6 @@ a{
     text-decoration: none;
     margin-right: 15px;
     font-size: 18px;
-
 }
 
 .hero-container{
@@ -52,7 +51,6 @@ a{
     text-align: start;
     flex-direction: column;
     max-width: 430px;
-    
 }
 
 
@@ -80,7 +78,6 @@ a{
     border: none;
     cursor: pointer;
     font-weight: bold;
-    
 }
 
 .image-placeholder{
