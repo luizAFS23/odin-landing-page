@@ -121,6 +121,7 @@ a{
     padding: 70px;
 }
 
+
 .quote-container{
     background-color: #E5E7EB;
     margin-top: 90px;
@@ -130,10 +131,25 @@ a{
     justify-content: center;
 }
 
-
-
 .quote-div em{
     font-size: 36px;
     font-weight: light;
     color: #1F2937;
+}
+
+.quote-div p{
+    float: right;
+    margin-top: 50px;
+}
+
+.call-to-action-container{
+    display: flex;
+    padding: 100px;
+}
+
+.call-to-action{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    border: solid blue;
 }
