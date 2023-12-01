@@ -8,4 +8,3 @@ btn.forEach((button) =>{
         alert(button.id);
     })
 })
-
